@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.card1 {
+  text-align: center;
+}
+.head1 {
+  margin: 100px 600px 20px 600px;
+  font-family: "Rubik" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 43px;
+  text-align: center;
+  color: #363940;
+}
+.p-section1 {
+  margin: 20px 495px 20px 495px;
+  font-family: "Rubik" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 22px;
+  text-align: center;
+  color: #95a1bb;
+}
+input {
+  margin: 20px 5px 100px 500px;
+  padding: 10px 40px 12px 15px;
+  font-family: "Rubik" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #95a1bb;
+}
+button {
+  margin: 20px 500px 100px 5px;
+  padding: 13px 25px;
+  background: #6e38f7;
+  border-radius: 4px;
+  color: white;
+  font-family: "Rubik" sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
